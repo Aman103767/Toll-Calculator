@@ -6,6 +6,7 @@ FASTAG
  
 Toll charges
  Amount of toll collected varies based on the weight of the vehicle.
+ <br>
  ![vehicle-types](https://user-images.githubusercontent.com/54835356/212551138-0bf2929a-8e7f-4954-b2e6-deb1f9c399c6.png)
  
  Journey Type
