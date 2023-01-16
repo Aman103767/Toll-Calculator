@@ -1,4 +1,4 @@
-# Toll-Calculator
+![Screenshot 2023-01-16 131021](https://user-images.githubusercontent.com/54835356/212625522-763b80d4-7fcf-4b05-a81a-abafb740d7a0.png)
 
 FASTAG
  The construction company prefers money to be collected via FASTAG. FASTAG is an electronic payment utility that can be used to pay tolls.  All vehicles have a vehicle number. The FASTAG is associated with a vehicle number.
