@@ -29,6 +29,7 @@ Goal
  Input Commands & Format
  Your program should take as input the FASTAG details of each vehicle and the list of vehicles that passed through the toll.
  
+ 
 FASTAG <VEHICLE_NUMBER> <FASTAG_BALANCE>
  
  <VEHICLE_NUMBER> is the identifier for a given vehicle. 
